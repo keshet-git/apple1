@@ -1,0 +1,23 @@
+body{
+    margin-top: 30px;
+    background-image:linear-gradient(rgb(9, 54, 71), rgb(53, 117, 135));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#box1{
+    border: 2px;
+    width: 250px;
+    height: 250px;
+    font-size: 43px;
+    background-color: aqua;
+    padding: 40px;
+    position: relative;
+    text-align: center;
+    margin-bottom: 4%;
+    border-radius: 10px;
+    margin-left:auto;
+    margin-right: auto;
+}
+#button{
+    color: #63de98;
+}
